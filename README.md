@@ -3,7 +3,11 @@
 <h3 align="center">🎓 3rd-year B.E. CSE student at Chandigarh University with a passion for web development.<br>I love learning new things 📚 and collaborating with others. Let's create something amazing together 🚀</h3>
 
 
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulChoudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="RahulChoudhary05" /> </p>
@@ -16,6 +20,7 @@
 - 📫 How to reach me rahulchoudhary.sk@gmail.com
 
 - ⚡ Fun fact *Chai tastes way better than Coffee | Change my mind!*
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krahul_21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulchoudhary210505/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/krahul_21)
