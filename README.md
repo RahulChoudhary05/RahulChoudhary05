@@ -3,7 +3,7 @@
 <h3 align="center">🎓 3rd-year B.E. CSE student at Chandigarh University with a passion for web development.<br>I love learning new things 📚 and collaborating with others. Let's create something amazing together 🚀</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulChoudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="RahulChoudhary05" /> </p>
