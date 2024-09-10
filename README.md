@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChoudhary05&&theme=tokyonight" alt="RahulChoudhary05" height="192px"/></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./RahulChoudhary05/profile-green-animate.svg)
