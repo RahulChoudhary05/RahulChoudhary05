@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Choudhary</h1>
-
-<h3 align="center">🎓 3rd-year B.E. CSE student at Chandigarh University with a passion for web development.<br>I love learning new things 📚 and collaborating with others. Let's create something amazing together 🚀</h3>
+<h4 align="center">🎓 3rd-year B.E. CSE student at Chandigarh University with a passion for web development.<br>I love learning new things 📚 and collaborating with others. Let's create something amazing together 🚀</h4>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
