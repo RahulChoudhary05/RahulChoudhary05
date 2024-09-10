@@ -24,8 +24,12 @@
 [![Rahul Choudhary Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChoudhary05&bg_color=%23F7DF1E&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/RahulChoudhary05/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: space-around;">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&locale=en&theme=tokyonight" alt="RahulChoudhary05" height="192px"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulChoudhary05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RahulChoudhary05" height="192px"/></p>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&locale=en&theme=tokyonight" alt="RahulChoudhary05" height="192px"/>
+    </div>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulChoudhary05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RahulChoudhary05" height="192px"/>
+    </div>
 </div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChoudhary05&&theme=tokyonight" alt="RahulChoudhary05" height="192px"/></p>
