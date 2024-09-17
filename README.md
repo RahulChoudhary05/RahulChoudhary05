@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulChoudhary05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RahulChoudhary05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChoudhary05&&theme=tokyonight" alt="RahulChoudhary05" height="192px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChoudhary05&&theme=tokyonight" alt="RahulChoudhary05" /></p></div>
