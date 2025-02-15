@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&locale=en&theme=tokyonight" alt="RahulChoudhary05" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulChoudhary05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RahulChoudhary05" /></p>
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=6366F1&title_color=6366F1&icon_color=6366F1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChoudhary05&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&layout=compact" />
+</div>
