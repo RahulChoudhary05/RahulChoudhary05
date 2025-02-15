@@ -22,10 +22,6 @@
 
 [![Rahul Choudhary Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChoudhary05&bg_color=%23F7DF1E&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/RahulChoudhary05/github-readme-activity-graph)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&locale=en&theme=tokyonight" alt="RahulChoudhary05" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulChoudhary05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RahulChoudhary05" /></p>
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=6366F1&title_color=6366F1&icon_color=6366F1" />
