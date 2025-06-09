@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Rahul+Choudhary;I+am+a+Full+Stack+Developer&font=Consolas&color=50C878&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Rahul+Choudhary;I+am+a+Full+Stack+Developer&font=Consolas&color=A9FEF7&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
 </p>
 <img align="right" alt="Coding" width="300" height="300" src="https://res.cloudinary.com/dnlrwuxxs/image/upload/fl_preserve_transparency/v1747317016/guy-removebg-preview_1_rkdb8z.jpg?_s=public-apps">
 
@@ -28,7 +28,7 @@
 
 
 
-[![Rahul Choudhary Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChoudhary05&bg_color=%23F7DF1E&color=ffffff&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/RahulChoudhary05/github-readme-activity-graph)
+[![Rahul Choudhary Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulChoudhary05&bg_color=%23F7DF1E&color=ffffff&line=FF79C6&point=403d3d&area=true&hide_border=true)](https://github.com/RahulChoudhary05/github-readme-activity-graph)
 
 
 
