@@ -27,10 +27,15 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-         
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchoudhary05&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=rahulchoudhary05&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulchoudhary05&theme=omni&hide_border=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulChoudhary05&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChoudhary05&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChoudhary05&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)   
