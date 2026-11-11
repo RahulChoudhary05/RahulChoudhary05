@@ -3,17 +3,17 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulChoudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="RahulChoudhary05" /> </p>
 
-<img align="right" width="300" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" width="400" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### 👨‍💻 About Me:
-- 💼 &nbsp; **Full Stack AI Developer** @ **Omnithrive**
-- 🎓 &nbsp; B.E. CSE, **Chandigarh University** (2022–26)
-- 📜 &nbsp; **Patent:** AI-Enhanced Neuroadaptive VR Therapy
-- 🧩 &nbsp; **400+** LeetCode · **1000+** contributions
-- 🌱 &nbsp; Exploring **GenAI & Agentic workflows**
-- 💬 &nbsp; Ask me about **MERN, PERN, FastAPI, LLMs**
-- 📫 &nbsp; **rahulchoudhary.sk@gmail.com**
-- ⚡ &nbsp; Fun fact: in JS, `[] == ![]` is `true` 🙃
+- 💼 &nbsp; **Full Stack AI Developer** @ **Omnithrive Technologies**
+- 🎓 &nbsp; B.E. in CSE, **Chandigarh University** (2022–2026)
+- 📜 &nbsp; **Patent:** AI-Enhanced Neuroadaptive VR Therapy System
+- 🧩 &nbsp; Solved **400+** LeetCode problems · **1000+** contributions
+- 🌱 &nbsp; Exploring **Generative AI, Agentic workflows & System Design**
+- 💬 &nbsp; Ask me about **MERN, PERN, FastAPI & LLM integration**
+- 📫 &nbsp; Reach me at: **rahulchoudhary.sk@gmail.com**
+- ⚡ &nbsp; Fun fact: in JavaScript, `[] == ![]` is `true` 🙃
 
 <br clear="right" />
 
@@ -55,10 +55,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=RahulChoudhary05&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
