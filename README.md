@@ -1,19 +1,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+user%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+GitHub+profile!;My+name+is+Rahul+Choudhary;I+am+a+Full+Stack+%26+AI+Developer;MERN+%7C+PERN+%7C+FastAPI+%7C+Agentic+AI&font=Consolas&color=00AFEC&size=22&center=true&width=800&height=50&duration=2900&pause=1000" alt="README Typing">
 </p>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulChoudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="RahulChoudhary05" /> </p>
 
+<img align="right" width="300" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ### 👨‍💻 About Me:
-- 💼 &nbsp; **Full Stack AI Developer** at **Omnithrive Technologies**. I built an ABDM-certified health platform.
-- 🎓 &nbsp; B.E. in Computer Science & Engineering, **Chandigarh University** (2022–2026).
-- 📜 &nbsp; **Patent:** AI-Enhanced Neuroadaptive VR Therapy System.
-- 🧩 &nbsp; Solved **400+** LeetCode problems · **1000+** GitHub contributions.
-- 🌱 &nbsp; Currently exploring **Generative AI, Agentic workflows & System Design**.
-- 💬 &nbsp; Ask me about **MERN, PERN, FastAPI & LLM integration**.
-- 📫 &nbsp; Reach me at: **rahulchoudhary.sk@gmail.com**
-- ⚡ &nbsp; Fun fact: in JavaScript, `[] == ![]` is `true` 🙃
+- 💼 &nbsp; **Full Stack AI Developer** @ **Omnithrive**
+- 🎓 &nbsp; B.E. CSE, **Chandigarh University** (2022–26)
+- 📜 &nbsp; **Patent:** AI-Enhanced Neuroadaptive VR Therapy
+- 🧩 &nbsp; **400+** LeetCode · **1000+** contributions
+- 🌱 &nbsp; Exploring **GenAI & Agentic workflows**
+- 💬 &nbsp; Ask me about **MERN, PERN, FastAPI, LLMs**
+- 📫 &nbsp; **rahulchoudhary.sk@gmail.com**
+- ⚡ &nbsp; Fun fact: in JS, `[] == ![]` is `true` 🙃
+
+<br clear="right" />
 
 ### My Absolute Favorites:
 - 💻 &nbsp; Building production-grade platforms and AI-powered products.
@@ -53,4 +55,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=RahulChoudhary05&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
